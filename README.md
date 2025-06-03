@@ -24,7 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,py,git,java,spring,maven,mysql,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=fastapi,vue,vite,flutter,py,git,java,spring,maven,mysql,postgres,sqlite,postman" />
   </a>
 </p>  
 
@@ -32,7 +32,7 @@
  <h1>IDEs: </h1>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode,eclipse" />
   </a>
 </p>
 
