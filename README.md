@@ -11,6 +11,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=Mickael-7&show_icons=true&theme=radical&bg_color=000000" target="_blank" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickael-7&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
 </div>
 
 ---
